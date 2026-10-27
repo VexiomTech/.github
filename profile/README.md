@@ -1,6 +1,6 @@
 <div align="center">
 
-# VexiomTech
+# Vexiom
 
 ### Tecnologia que transforma desafios em soluções inteligentes.
 
@@ -101,10 +101,8 @@ Aprendemos, experimentamos e aprimoramos constantemente nossas soluções.
 
 ## 📚 Recursos
 
-- 🌐 [Site oficial](LINK_DO_SITE)
-- 💼 [LinkedIn](LINK_DO_LINKEDIN)
-- 📧 [Entre em contato](mailto:EMAIL_DA_EMPRESA)
-- 📖 [Documentação](LINK_DA_DOCUMENTACAO)
+- 🌐 [Site oficial](https://vexiom.com.br/)
+- 📧 [Entre em contato](mailto:vexiom.dev@gmail.com)
 
 ---
 
@@ -114,7 +112,7 @@ Tem uma ideia, um desafio ou quer conhecer melhor nosso trabalho?
 
 Fale com a equipe da VexiomTech:
 
-**E-mail:** `EMAIL_DA_EMPRESA`
+**E-mail:** `vexiom.dev@gmail.com`
 
 ---
 
