@@ -99,18 +99,6 @@ Aprendemos, experimentamos e aprimoramos constantemente nossas soluções.
 
 ---
 
-## 🤝 Trabalhe conosco
-
-Estamos sempre em busca de pessoas curiosas, responsáveis e apaixonadas por tecnologia.
-
-Se você gosta de resolver problemas, aprender coisas novas e construir soluções que fazem a diferença, talvez possamos trabalhar juntos.
-
-Confira nossas oportunidades:
-
-👉 **[Ver vagas disponíveis](LINK_PARA_VAGAS)**
-
----
-
 ## 📚 Recursos
 
 - 🌐 [Site oficial](LINK_DO_SITE)
