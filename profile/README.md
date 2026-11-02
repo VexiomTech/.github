@@ -120,6 +120,6 @@ Fale com a equipe da VexiomTech:
 
 ### Construindo o futuro através da tecnologia.
 
-Made with ❤️ by **VexiomTech**
+Made with ❤️ by **Vexiom**
 
 </div>
